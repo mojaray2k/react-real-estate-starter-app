@@ -1,5 +1,5 @@
 import React from 'react';
-import House from '../house'
+import House from '../house';
 
 const FeaturedHouse = (props) => {
     if (props.house) return (
@@ -13,5 +13,5 @@ const FeaturedHouse = (props) => {
         </div>)
     return (<div>No featured house at this time</div>)
 }
- 
+
 export default FeaturedHouse;
