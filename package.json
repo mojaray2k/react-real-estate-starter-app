@@ -1,0 +1,25 @@
+{
+  "name": "react-real-estate-starter-app",
+  "version": "0.1.0",
+  "description": "This is a start app for a real estate website built using React",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "Amen Ra",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojaray2k/react-real-estate-starter-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mojaray2k/react-real-estate-starter-app.git/issues"
+  }
+}
